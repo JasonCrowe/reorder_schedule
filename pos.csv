@@ -1,200 +1,199 @@
-product_id,title,SKU,regular_price,price,stock_quantity,created_at,updated_at,managing_stock,vendor,permalink,categories,image,brand,variant,tags
-,Apache Tshirt ,MS125-TEI-NA-S,,10.8,16,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= S,
-,Apache Tshirt ,MS125-TEI-NA-M,,10.8,31,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= M,
-,Apache Tshirt,MS125-TEI-NA-L,,10.8,36,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= L,
-,Apache Tshirt,MS125-TEI-NA-XL,,10.8,20,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= XL,
-,Apache Tshirt,MS125-TEI-NA-XXL,,10.8,7,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= 2XL,
-,X tshirt,MS106-TEI-GB-S,,9.05,8,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= S,
-,X tshirt,MS106-TEI-GB-M,,9.05,13,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= M,
-,X tshirt,MS106-TEI-GB-L,,9.05,20,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= L,
-,X tshirt,MS106-TEI-GB-XL,,9.05,10,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= XL,
-,X tshirt,MS106-TEI-GB-XXL,,9.05,4,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= 2XL,
-,Gradient Tshirt,MS110-TEK-GY-S,,8.1,16,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= S",
-,Gradient Tshirt,MS110-TEK-GY-M,,8.1,31,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= M",
-,Gradient Tshirt,MS110-TEK-GY-L,,8.1,36,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= L",
-,Gradient Tshirt,MS110-TEK-GY-XL,,8.1,20,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= XL",
-,Gradient Tshirt,MS110-TEK-GY-XXL,,8.1,7,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= 2XL",
-,Gradient Tshirt,MS111-TEK-BU-S,,8.1,12,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= S",
-,Gradient Tshirt,MS111-TEK-BU-M,,8.1,22,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= M",
-,Gradient Tshirt,MS111-TEK-BU-L,,8.1,27,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= L",
-,Gradient Tshirt,MS111-TEK-BU-XL,,8.1,15,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= XL",
-,Gradient Tshirt,MS111-TEK-BU-XXL,,8.1,7,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= 2XL",
-,Icon Tshirt,MS120-TEK-BU-S,,8.3,12,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= S,
-,Icon Tshirt,MS120-TEK-BU-M,,8.3,22,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= M,
-,Icon Tshirt,MS120-TEK-BU-L,,8.3,27,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= L,
-,Icon Tshirt,MS120-TEK-BU-XL,,8.3,15,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= XL,
-,Icon Tshirt,MS120-TEK-BU-XXL,,8.3,4,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= 2XL,
-,Pro Elite Tank,MS130-TAI-BK-S,,8.3,16,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= S,
-,Pro Elite Tank,MS130-TAI-BK-M,,8.3,31,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= M,
-,Pro Elite Tank,MS130-TAI-BK-L,,8.3,36,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= L,
-,Pro Elite Tank,MS130-TAI-BK-XL,,8.3,20,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= XL,
-,Pro Elite Tank,MS130-TAI-BK-XXL,,8.3,7,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= 2XL,
-,Killing It Tank,MS135-TAK-BK-S,,7.65,16,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= S,
-,Killing It Tank,MS135-TAK-BK-M,,7.65,31,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= M,
-,Killing It Tank,MS135-TAK-BK-L,,7.65,36,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= L,
-,Killing It Tank,MS135-TAK-BK-XL,,7.65,20,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= XL,
-,Killing It Tank,MS135-TAK-BK-XXL,,7.65,7,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= 2XL,
-,Vantage Tank,MS140-TAH-GY-S,,7.8,16,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= S,
-,Vantage Tank,MS140-TAH-GY-M,,7.8,31,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= M,
-,Vantage Tank,MS140-TAH-GY-L,,7.8,36,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= L,
-,Vantage Tank,MS140-TAH-GY-XL,,7.8,20,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= XL,
-,Vantage Tank,MS140-TAH-GY-XXL,,7.8,7,2016-03-7,,true,Winwave Technology corp.,,T shirt,,,Size= 2XL,
-,Stealth,MS055-SHT-BW-S,,16,10,2016-04-6,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,
-,Stealth,MS055-SHT-BW-M,,16,17,2016-04-6,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,
-,Stealth,MS055-SHT-BW-L,,16,17,2016-04-6,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,
-,Stealth,MS055-SHT-BW-XL,,16,11,2016-04-6,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,
-,Hustle Tank Top,MS045-TAH-GY-S,,8.63,9,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,
-,Hustle Tank Top,MS045-TAH-GY-M,,8.63,16,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,
-,Hustle Tank Top,"MS045-TAH-GY-L,",,8.63,17,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,
-,Hustle Tank Top,MS045-TAH-GY-XL,,8.63,13,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,
-,Hustle Tank Top,MS045-TAH-GY-XXL,,8.63,5,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,
-,Hustle Tee,MS015-TEH-GY-S,,9.48,9,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,
-,Hustle Tee,MS015-TEH-GY-M,,9.48,16,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,
-,Hustle Tee,MS015-TEH-GY-L,,9.48,17,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,
-,Hustle Tee,MS015-TEH-GY-XL,,9.48,13,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,
-,Hustle Tee,MS015-TEH-GY-XXL,,9.48,5,2016-10-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,
-,Stealth,MS055-SHT-BW-S,,16,7,2016-8-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,
-,Stealth,MS055-SHT-BW-M,,16,19,2016-8-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,
-,Stealth,MS055-SHT-BW-L,,16,19,2016-8-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,
-,Stealth,MS055-SHT-BW-XL,,16,7,2016-8-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,
-,Stealth,MS055-SHT-BW-XXL,,25.67,3,2016-8-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,
-,Onyx shorts,MS250-SHT-BK-S,,16.2,7,2016-11-02,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= S",
-,Onyx short,MS250-SHT-BK-M,,16.2,19,2016-11-02,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= M",
-,Onyx short,MS250-SHT-BK-L,,16.2,19,2016-11-02,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= L",
-,Onyx short,MS250-SHT-BK-XL,,16.2,7,2016-11-02,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= XL",
-,Onyx shorts,MS250-SHT-BK-XXL,,16.2,3,2016-11-02,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= 2XL",
-,sweat shorts,MS260-SHT-GY-S,,16.6,7,2016-11-08,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= S",
-,sweat shorts,MS260-SHT-GY-M,,16.6,19,2016-11-08,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= M",
-,sweat shorts,MS260-SHT-GY-L,,16.6,19,2016-11-08,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= L",
-,sweat shorts,MS260-SHT-GY-XL,,16.6,7,2016-11-08,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= XL",
-,sweat shorts,MS260-SHT-GY-XXL,,16.6,3,2016-11-08,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= 2XL",
-,Stealth,MS055-SHT-BW-S,,16,7,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,
-,Stealth,MS055-SHT-BW-M,,16,24,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,
-,Stealth,MS055-SHT-BW-L,,16,16,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,
-,Stealth,MS055-SHT-BW-XL,,16,5,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,
-,Stealth,MS055-SHT-BW-XXL,,16,3,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,
-, Hustle,MS045-TAH-GY-S,,8.63,13,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,
-, Hustle,MS045-TAH-GY-M,,8.63,17,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,
-, Hustle,"MS045-TAH-GY-L,",,8.63,17,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,
-, Hustle,MS045-TAH-GY-XL,,8.63,5,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,
-, Hustle,MS045-TAH-GY-2XL,,8.63,3,2016-11-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,
-,Killing It tank top,MS135-TAK-BK-S,,8.63,13,2016-12-06,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= S",
-,Killing It tank top,MS135-TAK-BK-M,,8.63,16,2016-12-06,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= M",
-,Killing It tank top,MS135-TAK-BK-L,,8.63,15,2016-12-06,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= L",
-,Killing It tank top,MS135-TAK-BK-XL,,8.63,6,2016-12-06,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= XL",
-,Killing It tank top,MS135-TAK-BK-XXL,,8.63,5,2016-12-06,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= 2XL",
-,STAPLE,MS201-TEK-WH-XXL,,8.9,3,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= 2XL",
-,SHIELD,MS210-TEK-BK-S,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= S",
-,SHIELD,MS210-TEK-BK-M,,9.1,12,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= M",
-,SHIELD,MS210-TEK-BK-L,,9.1,13,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= L",
-,SHIELD,MS210-TEK-BK-XL,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= XL",
-,SHIELD,MS210-TEK-BK-XXL,,9.1,4,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= 2XL",
-,SHIELD,MS211-TEK-WH-S,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= S",
-,SHIELD,MS211-TEK-WH-M,,9.1,14,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= M",
-,SHIELD,MS211-TEK-WH-L,,9.1,14,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= L",
-,SHIELD,MS211-TEK-WH-XL,,9.1,9,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= XL",
-,SHIELD,MS211-TEK-WH-XXL,,9.1,5,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= 2XL",
-,SHIELD,MS213-TEK-BU-S,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= S",
-,SHIELD,MS213-TEK-BU-M,,9.1,14,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= M",
-,SHIELD,MS213-TEK-BU-L,,9.1,13,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= L",
-,SHIELD,MS213-TEK-BU-XL,,9.1,9,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= XL",
-,SHIELD,MS213-TEK-BU-XXL,,9.1,4,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= 2XL",
-,SHIELD,MS212-TEK-OL-S,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= S",
-,SHIELD,MS212-TEK-OL-M,,9.1,13,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= M",
-,SHIELD,MS212-TEK-OL-L,,9.1,12,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= L",
-,SHIELD,MS212-TEK-OL-XL,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= XL",
-,SHIELD,MS212-TEK-OL-XXL,,9.1,4,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= XXL",
-,LINEUP,MS220-TEK-BK-S,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= S",
-,LINEUP,MS220-TEK-BK-M,,9.1,16,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= M",
-,LINEUP,MS220-TEK-BK-L,,9.1,14,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= L",
-,LINEUP,MS220-TEK-BK-XL,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= XL",
-,LINEUP,MS220-TEK-BK-XXL,,9.1,5,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= 2XL",
-,LINEUP,MS221-TEK-WH-S,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= S",
-,LINEUP,MS221-TEK-WH-M,,9.1,14,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= M",
-,LINEUP,MS221-TEK-WH-L,,9.1,14,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= L",
-,LINEUP,MS221-TEK-WH-XL,,9.1,8,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= XL",
-,LINEUP,MS221-TEK-WH-XXL,,9.1,5,2017-1-16,,true,Winwave Technology corp.,,T shirt,,,"Color = White, Size= 2XL",
-,SHIELD,MS245-TAK-BK-S,,7.65,7,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= S",
-,SHIELD,MS245-TAK-BK-M,,7.65,14,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= M",
-,SHIELD,MS245-TAK-BK-L,,7.65,13,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= L",
-,SHIELD,MS245-TAK-BK-XL,,7.65,9,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= XL",
-,SHIELD,MS245-TAK-BK-XXL,,7.65,4,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= 2XL",
-,SHIELD,MS247-TAK-WH-S,,7.65,7,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= S",
-,SHIELD,MS247-TAK-WH-M,,7.65,14,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= M",
-,SHIELD,MS247-TAK-WH-L,,7.65,13,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= L",
-,SHIELD,MS247-TAK-WH-XL,,7.65,9,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= XL",
-,SHIELD,MS247-TAK-WH-XXL,,7.65,4,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= 2XL",
-,SHIELD,MS246-TAK-OL-S,,7.65,5,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= S",
-,SHIELD,MS246-TAK-OL-M,,7.65,10,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= M",
-,SHIELD,MS246-TAK-OL-L,,7.65,12,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= L",
-,SHIELD,MS246-TAK-OL-XL,,7.65,8,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= XL",
-,SHIELD,MS246-TAK-OL-XXL,,7.65,4,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= XXL",
-,LIMITLES,MS231-TAK-BK-S,,7.65,6,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= S",
-,LIMITLES,MS231-TAK-BK-M,,7.65,12,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= M",
-,LIMITLES,MS231-TAK-BK-L,,7.65,13,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= L",
-,LIMITLES,MS231-TAK-BK-XL,,7.65,7,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= XL",
-,LIMITLES,MS231-TAK-BK-XXL,,7.65,4,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= 2XL",
-,LIMITLES,MS230-TAK-WH-S,,7.65,6,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= S",
-,LIMITLES,MS230-TAK-WH-M,,7.65,12,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= M",
-,LIMITLES,MS230-TAK-WH-L,,7.65,13,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= L",
-,LIMITLES,MS230-TAK-WH-XL,,7.65,7,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= XL",
-,LIMITLES,MS230-TAK-WH-XXL,,7.65,4,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= 2XL",
-,LIMITLES,MS232-TAK-BU-S,,7.65,7,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= S",
-,LIMITLES,MS232-TAK-BU-M,,7.65,14,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= M",
-,LIMITLES,MS232-TAK-BU-L,,7.65,12,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= L",
-,LIMITLES,MS232-TAK-BU-XL,,7.65,8,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= XL",
-,LIMITLES,MS232-TAK-BU-XXL,,7.65,4,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= 2XL",
-,Killing It Tank,MS135-TAK-BK-S,,7.65,19,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= S",
-,Killing It Tank,MS135-TAK-BK-M,,7.65,35,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= M",
-,Killing It Tank,MS135-TAK-BK-L,,7.65,32,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= L",
-,Killing It Tank,MS135-TAK-BK-XL,,7.65,23,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= XL",
-,Killing It Tank,MS135-TAK-BK-XXL,,7.65,10,2017-1-16,,true,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= 2XL",
-,Rival Track,MS290-JOG-BK-S,,21.53,19,2017-3-23,,true,Winwave Technology corp.,,Pants,,,"Color = Black,Size= S",
-,Rival Track,MS290-JOG-BK-M,,21.53,52,2017-3-23,,true,Winwave Technology corp.,,Pants,,,"Color = Black,Size= M",
-,Rival Track,MS290-JOG-BK-L,,21.53,38,2017-3-23,,true,Winwave Technology corp.,,Pants,,,"Color = Black,Size= L",
-,Rival Track,MS290-JOG-BK-XL,,21.53,27,2017-3-23,,true,Winwave Technology corp.,,Pants,,,"Color = Black,Size= XL",
-,Rival Track,MS290-JOG-BK-XXL,,21.53,14,2017-3-23,,true,Winwave Technology corp.,,Pants,,,"Color = Black,Size= 2XL",
-,Stealth,MS055-SHT-BW-S,,16,6,2017-4-19,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= S,
-,Stealth,MS055-SHT-BW-M,,16,24,2017-4-19,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= M,
-,Stealth,MS055-SHT-BW-L,,16,16,2017-4-19,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= L,
-,Stealth,MS055-SHT-BW-XL,,16,7,2017-4-19,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= XL,
-,Stealth,MS055-SHT-BW-XXL,,16,2,2017-4-19,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= 2XL,
-,City Zip,MS270-HOZ-BK-S,,27.65,11,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= S",
-,City Zip,MS270-HOZ-BK-M,,27.65,18,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= M",
-,City Zip,MS270-HOZ-BK-L,,27.65,16,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= L",
-,City Zip,MS270-HOZ-BK-XL,,27.65,7,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= XL",
-,City Zip,MS270-HOZ-BK-XXL,,27.65,4,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= 2XL",
-,Covert Jacket,MS275-HOZ-BN-S,,23.71,11,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= S",
-,Covert Jacket,MS275-HOZ-BN-M,,23.71,18,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= M",
-,Covert Jacket,MS275-HOZ-BN-L,,23.71,16,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= L",
-,Covert Jacket,MS275-HOZ-BN-XL,,23.71,7,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= XL",
-,Covert Jacket,MS275-HOZ-BN-XXL,,23.71,4,2017-4-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= 2XL",
-,Momentum,MS260-SHT-GY-S,,19.48,10,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= S",
-,Momentum,MS260-SHT-GY-M,,19.48,22,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= M",
-,Momentum,MS260-SHT-GY-L,,19.48,18,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= L",
-,Momentum,MS260-SHT-GY-XL,,19.48,8,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= XL",
-,Momentum,MS260-SHT-GY-XXL,,19.48,4,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= 2XL",
-,Everest Crew,MS280-POL-GY-S,,20.18,11,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= S",
-,Everest Crew,MS280-POL-BK-M,,20.18,18,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= M",
-,Everest Crew,MS280-POL-BK-L,,20.18,16,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= L",
-,Everest Crew,MS280-POL-BK-XL,,20.18,7,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= XL",
-,Everest Crew,MS280-POL-BK-XXL,,20.18,4,2017-5-22,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= 2XL",
-,Onyx shorts,MS250-SHT-BK-S,,16.2,8,2017-6-11,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= S",
-,Onyx shorts,MS250-SHT-BK-M,,16.2,19,2017-6-11,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= M",
-,Onyx shorts,MS250-SHT-BK-L,,16.2,16,2017-6-11,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= L",
-,Onyx shorts,MS250-SHT-BK-XL,,16.2,9,2017-6-11,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= XL",
-,Onyx shorts,MS250-SHT-BK-XXL,,16.2,3,2017-6-11,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= 2XL",
-,Rush 2in1 shorts,MS285-SHT-BK-S,,21.5,9,2017-6-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= S",
-,Rush 2in1 shorts,MS285-SHT-BK-M,,21.5,19,2017-6-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= M",
-,Rush 2in1 shorts,MS285-SHT-BK-L,,21.5,17,2017-6-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= L",
-,Rush 2in1 shorts,MS285-SHT-BK-XL,,21.5,7,2017-6-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= XL",
-,Rush 2in1 shorts,MS285-SHT-BK-XL,,21.5,3,2017-6-26,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= 2XL",
-,Killing It tank top,MS135-TAK-BK-S,,8.63,15,2017-6-28,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank,,,"Color = Black,Size= S",
-,Killing It tank top,MS135-TAK-BK-M,,8.63,22,2017-6-28,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank,,,"Color = Black,Size= M",
-,Killing It tank top,MS135-TAK-BK-L,,8.63,18,2017-6-28,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank,,,"Color = Black,Size= L",
-,Overtime tank,MS286-SHT-BK-6,,11.8,13,2017-9-01,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= S",
-,Overtime tank,MS286-SHT-BK-L,,11.8,20,2017-9-01,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= M",
-,Overtime tank,MS286-SHT-BK-XL,,11.8,20,2017-9-01,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= L",
-,Overtime tank,MS286-SHT-BK-XL,,11.8,12,2017-9-01,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= XL",
-,Overtime tank,MS286-SHT-BK-S,,11.8,3,2017-9-01,,true,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= XXL",
-,,,,,,,,,,,,,,,
+product_id,title,SKU,regular_price,price,stock_quantity,created_at,updated_at,managing_stock,vendor,permalink,categories,image,brand,variant,tags,moq,lead_time
+,Apache Tshirt ,MS125-TEI-NA-S,,10.8,16,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= S,,55,45
+,Apache Tshirt ,MS125-TEI-NA-M,,10.8,31,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= M,,55,45
+,Apache Tshirt,MS125-TEI-NA-L,,10.8,36,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= L,,55,45
+,Apache Tshirt,MS125-TEI-NA-XL,,10.8,20,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= XL,,55,45
+,Apache Tshirt,MS125-TEI-NA-XXL,,10.8,7,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= 2XL,,55,45
+,X tshirt,MS106-TEI-GB-S,,9.05,8,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= S,,55,45
+,X tshirt,MS106-TEI-GB-M,,9.05,13,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= M,,55,45
+,X tshirt,MS106-TEI-GB-L,,9.05,20,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= L,,55,45
+,X tshirt,MS106-TEI-GB-XL,,9.05,10,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= XL,,55,45
+,X tshirt,MS106-TEI-GB-XXL,,9.05,4,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= 2XL,,55,45
+,Gradient Tshirt,MS110-TEK-GY-S,,8.1,16,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= S",,55,45
+,Gradient Tshirt,MS110-TEK-GY-M,,8.1,31,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= M",,55,45
+,Gradient Tshirt,MS110-TEK-GY-L,,8.1,36,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= L",,55,45
+,Gradient Tshirt,MS110-TEK-GY-XL,,8.1,20,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= XL",,55,45
+,Gradient Tshirt,MS110-TEK-GY-XXL,,8.1,7,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= 2XL",,55,45
+,Gradient Tshirt,MS111-TEK-BU-S,,8.1,12,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= S",,55,45
+,Gradient Tshirt,MS111-TEK-BU-M,,8.1,22,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= M",,55,45
+,Gradient Tshirt,MS111-TEK-BU-L,,8.1,27,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= L",,55,45
+,Gradient Tshirt,MS111-TEK-BU-XL,,8.1,15,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= XL",,55,45
+,Gradient Tshirt,MS111-TEK-BU-XXL,,8.1,7,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Heather Grey, Size= 2XL",,55,45
+,Icon Tshirt,MS120-TEK-BU-S,,8.3,12,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= S,,55,45
+,Icon Tshirt,MS120-TEK-BU-M,,8.3,22,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= M,,55,45
+,Icon Tshirt,MS120-TEK-BU-L,,8.3,27,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= L,,55,45
+,Icon Tshirt,MS120-TEK-BU-XL,,8.3,15,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= XL,,55,45
+,Icon Tshirt,MS120-TEK-BU-XXL,,8.3,4,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= 2XL,,55,45
+,Pro Elite Tank,MS130-TAI-BK-S,,8.3,16,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= S,,55,45
+,Pro Elite Tank,MS130-TAI-BK-M,,8.3,31,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= M,,55,45
+,Pro Elite Tank,MS130-TAI-BK-L,,8.3,36,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= L,,55,45
+,Pro Elite Tank,MS130-TAI-BK-XL,,8.3,20,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= XL,,55,45
+,Pro Elite Tank,MS130-TAI-BK-XXL,,8.3,7,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= 2XL,,55,45
+,Killing It Tank,MS135-TAK-BK-S,,7.65,16,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= S,,55,45
+,Killing It Tank,MS135-TAK-BK-M,,7.65,31,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= M,,55,45
+,Killing It Tank,MS135-TAK-BK-L,,7.65,36,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= L,,55,45
+,Killing It Tank,MS135-TAK-BK-XL,,7.65,20,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= XL,,55,45
+,Killing It Tank,MS135-TAK-BK-XXL,,7.65,7,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= 2XL,,55,45
+,Vantage Tank,MS140-TAH-GY-S,,7.8,16,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= S,,55,45
+,Vantage Tank,MS140-TAH-GY-M,,7.8,31,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= M,,55,45
+,Vantage Tank,MS140-TAH-GY-L,,7.8,36,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= L,,55,45
+,Vantage Tank,MS140-TAH-GY-XL,,7.8,20,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= XL,,55,45
+,Vantage Tank,MS140-TAH-GY-XXL,,7.8,7,3/7/2016,,TRUE,Winwave Technology corp.,,T shirt,,,Size= 2XL,,55,45
+,Stealth,MS055-SHT-BW-S,,16,10,4/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,,55,45
+,Stealth,MS055-SHT-BW-M,,16,17,4/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,,55,45
+,Stealth,MS055-SHT-BW-L,,16,17,4/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,,55,45
+,Stealth,MS055-SHT-BW-XL,,16,11,4/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,,55,45
+,Hustle Tank Top,MS045-TAH-GY-S,,8.63,9,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,,55,45
+,Hustle Tank Top,MS045-TAH-GY-M,,8.63,16,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,,55,45
+,Hustle Tank Top,"MS045-TAH-GY-L,",,8.63,17,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,,55,45
+,Hustle Tank Top,MS045-TAH-GY-XL,,8.63,13,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,,55,45
+,Hustle Tank Top,MS045-TAH-GY-XXL,,8.63,5,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,,55,45
+,Hustle Tee,MS015-TEH-GY-S,,9.48,9,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,,55,45
+,Hustle Tee,MS015-TEH-GY-M,,9.48,16,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,,55,45
+,Hustle Tee,MS015-TEH-GY-L,,9.48,17,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,,55,45
+,Hustle Tee,MS015-TEH-GY-XL,,9.48,13,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,,55,45
+,Hustle Tee,MS015-TEH-GY-XXL,,9.48,5,10/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,,55,45
+,Stealth,MS055-SHT-BW-S,,16,7,8/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,,55,45
+,Stealth,MS055-SHT-BW-M,,16,19,8/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,,55,45
+,Stealth,MS055-SHT-BW-L,,16,19,8/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,,55,45
+,Stealth,MS055-SHT-BW-XL,,16,7,8/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,,55,45
+,Stealth,MS055-SHT-BW-XXL,,25.67,3,8/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,,55,45
+,Onyx shorts,MS250-SHT-BK-S,,16.2,7,11/2/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= S",,55,45
+,Onyx short,MS250-SHT-BK-M,,16.2,19,11/2/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= M",,55,45
+,Onyx short,MS250-SHT-BK-L,,16.2,19,11/2/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= L",,55,45
+,Onyx short,MS250-SHT-BK-XL,,16.2,7,11/2/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= XL",,55,45
+,Onyx shorts,MS250-SHT-BK-XXL,,16.2,3,11/2/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black, Size= 2XL",,55,45
+,sweat shorts,MS260-SHT-GY-S,,16.6,7,11/8/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= S",,55,45
+,sweat shorts,MS260-SHT-GY-M,,16.6,19,11/8/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= M",,55,45
+,sweat shorts,MS260-SHT-GY-L,,16.6,19,11/8/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= L",,55,45
+,sweat shorts,MS260-SHT-GY-XL,,16.6,7,11/8/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= XL",,55,45
+,sweat shorts,MS260-SHT-GY-XXL,,16.6,3,11/8/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Grey, Size= 2XL",,55,45
+,Stealth,MS055-SHT-BW-S,,16,7,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,,55,45
+,Stealth,MS055-SHT-BW-M,,16,24,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,,55,45
+,Stealth,MS055-SHT-BW-L,,16,16,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,,55,45
+,Stealth,MS055-SHT-BW-XL,,16,5,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,,55,45
+,Stealth,MS055-SHT-BW-XXL,,16,3,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,,55,45
+, Hustle,MS045-TAH-GY-S,,8.63,13,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= S,,55,45
+, Hustle,MS045-TAH-GY-M,,8.63,17,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= M,,55,45
+, Hustle,"MS045-TAH-GY-L,",,8.63,17,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= L,,55,45
+, Hustle,MS045-TAH-GY-XL,,8.63,5,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= XL,,55,45
+, Hustle,MS045-TAH-GY-2XL,,8.63,3,11/22/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,T shirt,,,Size= 2XL,,55,45
+,Killing It tank top,MS135-TAK-BK-S,,8.63,13,12/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= S",,55,45
+,Killing It tank top,MS135-TAK-BK-M,,8.63,16,12/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= M",,55,45
+,Killing It tank top,MS135-TAK-BK-L,,8.63,15,12/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= L",,55,45
+,Killing It tank top,MS135-TAK-BK-XL,,8.63,6,12/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= XL",,55,45
+,Killing It tank top,MS135-TAK-BK-XXL,,8.63,5,12/6/2016,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,top,,,"Color = Black, Size= 2XL",,55,45
+,STAPLE,MS201-TEK-WH-XXL,,8.9,3,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= 2XL",,55,45
+,SHIELD,MS210-TEK-BK-S,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= S",,55,45
+,SHIELD,MS210-TEK-BK-M,,9.1,12,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= M",,55,45
+,SHIELD,MS210-TEK-BK-L,,9.1,13,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= L",,55,45
+,SHIELD,MS210-TEK-BK-XL,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= XL",,55,45
+,SHIELD,MS210-TEK-BK-XXL,,9.1,4,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= 2XL",,55,45
+,SHIELD,MS211-TEK-WH-S,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= S",,55,45
+,SHIELD,MS211-TEK-WH-M,,9.1,14,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= M",,55,45
+,SHIELD,MS211-TEK-WH-L,,9.1,14,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= L",,55,45
+,SHIELD,MS211-TEK-WH-XL,,9.1,9,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= XL",,55,45
+,SHIELD,MS211-TEK-WH-XXL,,9.1,5,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= 2XL",,55,45
+,SHIELD,MS213-TEK-BU-S,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= S",,55,45
+,SHIELD,MS213-TEK-BU-M,,9.1,14,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= M",,55,45
+,SHIELD,MS213-TEK-BU-L,,9.1,13,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= L",,55,45
+,SHIELD,MS213-TEK-BU-XL,,9.1,9,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= XL",,55,45
+,SHIELD,MS213-TEK-BU-XXL,,9.1,4,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Blue, Size= 2XL",,55,45
+,SHIELD,MS212-TEK-OL-S,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= S",,55,45
+,SHIELD,MS212-TEK-OL-M,,9.1,13,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= M",,55,45
+,SHIELD,MS212-TEK-OL-L,,9.1,12,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= L",,55,45
+,SHIELD,MS212-TEK-OL-XL,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= XL",,55,45
+,SHIELD,MS212-TEK-OL-XXL,,9.1,4,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Olive, Size= XXL",,55,45
+,LINEUP,MS220-TEK-BK-S,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= S",,55,45
+,LINEUP,MS220-TEK-BK-M,,9.1,16,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= M",,55,45
+,LINEUP,MS220-TEK-BK-L,,9.1,14,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= L",,55,45
+,LINEUP,MS220-TEK-BK-XL,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= XL",,55,45
+,LINEUP,MS220-TEK-BK-XXL,,9.1,5,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = Black, Size= 2XL",,55,45
+,LINEUP,MS221-TEK-WH-S,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= S",,55,45
+,LINEUP,MS221-TEK-WH-M,,9.1,14,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= M",,55,45
+,LINEUP,MS221-TEK-WH-L,,9.1,14,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= L",,55,45
+,LINEUP,MS221-TEK-WH-XL,,9.1,8,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= XL",,55,45
+,LINEUP,MS221-TEK-WH-XXL,,9.1,5,1/16/2017,,TRUE,Winwave Technology corp.,,T shirt,,,"Color = White, Size= 2XL",,55,45
+,SHIELD,MS245-TAK-BK-S,,7.65,7,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= S",,55,45
+,SHIELD,MS245-TAK-BK-M,,7.65,14,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= M",,55,45
+,SHIELD,MS245-TAK-BK-L,,7.65,13,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= L",,55,45
+,SHIELD,MS245-TAK-BK-XL,,7.65,9,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= XL",,55,45
+,SHIELD,MS245-TAK-BK-XXL,,7.65,4,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= 2XL",,55,45
+,SHIELD,MS247-TAK-WH-S,,7.65,7,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= S",,55,45
+,SHIELD,MS247-TAK-WH-M,,7.65,14,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= M",,55,45
+,SHIELD,MS247-TAK-WH-L,,7.65,13,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= L",,55,45
+,SHIELD,MS247-TAK-WH-XL,,7.65,9,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= XL",,55,45
+,SHIELD,MS247-TAK-WH-XXL,,7.65,4,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= 2XL",,55,45
+,SHIELD,MS246-TAK-OL-S,,7.65,5,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= S",,55,45
+,SHIELD,MS246-TAK-OL-M,,7.65,10,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= M",,55,45
+,SHIELD,MS246-TAK-OL-L,,7.65,12,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= L",,55,45
+,SHIELD,MS246-TAK-OL-XL,,7.65,8,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= XL",,55,45
+,SHIELD,MS246-TAK-OL-XXL,,7.65,4,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Olive, Size= XXL",,55,45
+,LIMITLES,MS231-TAK-BK-S,,7.65,6,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= S",,55,45
+,LIMITLES,MS231-TAK-BK-M,,7.65,12,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= M",,55,45
+,LIMITLES,MS231-TAK-BK-L,,7.65,13,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= L",,55,45
+,LIMITLES,MS231-TAK-BK-XL,,7.65,7,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= XL",,55,45
+,LIMITLES,MS231-TAK-BK-XXL,,7.65,4,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= 2XL",,55,45
+,LIMITLES,MS230-TAK-WH-S,,7.65,6,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= S",,55,45
+,LIMITLES,MS230-TAK-WH-M,,7.65,12,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= M",,55,45
+,LIMITLES,MS230-TAK-WH-L,,7.65,13,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= L",,55,45
+,LIMITLES,MS230-TAK-WH-XL,,7.65,7,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= XL",,55,45
+,LIMITLES,MS230-TAK-WH-XXL,,7.65,4,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = White, Size= 2XL",,55,45
+,LIMITLES,MS232-TAK-BU-S,,7.65,7,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= S",,55,45
+,LIMITLES,MS232-TAK-BU-M,,7.65,14,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= M",,55,45
+,LIMITLES,MS232-TAK-BU-L,,7.65,12,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= L",,55,45
+,LIMITLES,MS232-TAK-BU-XL,,7.65,8,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= XL",,55,45
+,LIMITLES,MS232-TAK-BU-XXL,,7.65,4,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Blue, Size= 2XL",,55,45
+,Killing It Tank,MS135-TAK-BK-S,,7.65,19,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= S",,55,45
+,Killing It Tank,MS135-TAK-BK-M,,7.65,35,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= M",,55,45
+,Killing It Tank,MS135-TAK-BK-L,,7.65,32,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= L",,55,45
+,Killing It Tank,MS135-TAK-BK-XL,,7.65,23,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= XL",,55,45
+,Killing It Tank,MS135-TAK-BK-XXL,,7.65,10,1/16/2017,,TRUE,Winwave Technology corp.,,Tank Top,,,"Color = Black, Size= 2XL",,55,45
+,Rival Track,MS290-JOG-BK-S,,21.53,19,3/23/2017,,TRUE,Winwave Technology corp.,,Pants,,,"Color = Black,Size= S",,55,45
+,Rival Track,MS290-JOG-BK-M,,21.53,52,3/23/2017,,TRUE,Winwave Technology corp.,,Pants,,,"Color = Black,Size= M",,55,45
+,Rival Track,MS290-JOG-BK-L,,21.53,38,3/23/2017,,TRUE,Winwave Technology corp.,,Pants,,,"Color = Black,Size= L",,55,45
+,Rival Track,MS290-JOG-BK-XL,,21.53,27,3/23/2017,,TRUE,Winwave Technology corp.,,Pants,,,"Color = Black,Size= XL",,55,45
+,Rival Track,MS290-JOG-BK-XXL,,21.53,14,3/23/2017,,TRUE,Winwave Technology corp.,,Pants,,,"Color = Black,Size= 2XL",,55,45
+,Stealth,MS055-SHT-BW-S,,16,6,4/19/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= S,,55,45
+,Stealth,MS055-SHT-BW-M,,16,24,4/19/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= M,,55,45
+,Stealth,MS055-SHT-BW-L,,16,16,4/19/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= L,,55,45
+,Stealth,MS055-SHT-BW-XL,,16,7,4/19/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= XL,,55,45
+,Stealth,MS055-SHT-BW-XXL,,16,2,4/19/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,Size= 2XL,,55,45
+,City Zip,MS270-HOZ-BK-S,,27.65,11,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= S",,55,45
+,City Zip,MS270-HOZ-BK-M,,27.65,18,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= M",,55,45
+,City Zip,MS270-HOZ-BK-L,,27.65,16,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= L",,55,45
+,City Zip,MS270-HOZ-BK-XL,,27.65,7,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= XL",,55,45
+,City Zip,MS270-HOZ-BK-XXL,,27.65,4,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Grey,Size= 2XL",,55,45
+,Covert Jacket,MS275-HOZ-BN-S,,23.71,11,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= S",,55,45
+,Covert Jacket,MS275-HOZ-BN-M,,23.71,18,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= M",,55,45
+,Covert Jacket,MS275-HOZ-BN-L,,23.71,16,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= L",,55,45
+,Covert Jacket,MS275-HOZ-BN-XL,,23.71,7,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= XL",,55,45
+,Covert Jacket,MS275-HOZ-BN-XXL,,23.71,4,4/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Jacket,,,"Color = Black/Navy,Size= 2XL",,55,45
+,Momentum,MS260-SHT-GY-S,,19.48,10,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= S",,55,45
+,Momentum,MS260-SHT-GY-M,,19.48,22,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= M",,55,45
+,Momentum,MS260-SHT-GY-L,,19.48,18,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= L",,55,45
+,Momentum,MS260-SHT-GY-XL,,19.48,8,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= XL",,55,45
+,Momentum,MS260-SHT-GY-XXL,,19.48,4,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,sweat shortS,,,"Color = Grey,Size= 2XL",,55,45
+,Everest Crew,MS280-POL-GY-S,,20.18,11,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= S",,55,45
+,Everest Crew,MS280-POL-BK-M,,20.18,18,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= M",,55,45
+,Everest Crew,MS280-POL-BK-L,,20.18,16,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= L",,55,45
+,Everest Crew,MS280-POL-BK-XL,,20.18,7,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= XL",,55,45
+,Everest Crew,MS280-POL-BK-XXL,,20.18,4,5/22/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Neck Jumper,,,"Color = Grey,Size= 2XL",,55,45
+,Onyx shorts,MS250-SHT-BK-S,,16.2,8,6/11/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= S",,55,45
+,Onyx shorts,MS250-SHT-BK-M,,16.2,19,6/11/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= M",,55,45
+,Onyx shorts,MS250-SHT-BK-L,,16.2,16,6/11/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= L",,55,45
+,Onyx shorts,MS250-SHT-BK-XL,,16.2,9,6/11/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= XL",,55,45
+,Onyx shorts,MS250-SHT-BK-XXL,,16.2,3,6/11/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black,Size= 2XL",,55,45
+,Rush 2in1 shorts,MS285-SHT-BK-S,,21.5,9,6/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= S",,55,45
+,Rush 2in1 shorts,MS285-SHT-BK-M,,21.5,19,6/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= M",,55,45
+,Rush 2in1 shorts,MS285-SHT-BK-L,,21.5,17,6/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= L",,55,45
+,Rush 2in1 shorts,MS285-SHT-BK-XL,,21.5,7,6/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= XL",,55,45
+,Rush 2in1 shorts,MS285-SHT-BK-XL,,21.5,3,6/26/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Shorts,,,"Color = Black/White,Size= 2XL",,55,45
+,Killing It tank top,MS135-TAK-BK-S,,8.63,15,6/28/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank,,,"Color = Black,Size= S",,55,45
+,Killing It tank top,MS135-TAK-BK-M,,8.63,22,6/28/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank,,,"Color = Black,Size= M",,55,45
+,Killing It tank top,MS135-TAK-BK-L,,8.63,18,6/28/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank,,,"Color = Black,Size= L",,55,45
+,Overtime tank,MS286-SHT-BK-6,,11.8,13,9/1/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= S",,55,45
+,Overtime tank,MS286-SHT-BK-L,,11.8,20,9/1/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= M",,55,45
+,Overtime tank,MS286-SHT-BK-XL,,11.8,20,9/1/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= L",,55,45
+,Overtime tank,MS286-SHT-BK-XL,,11.8,12,9/1/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= XL",,55,45
+,Overtime tank,MS286-SHT-BK-S,,11.8,3,9/1/2017,,TRUE,"QINGDAO HEADWEAR CHINA CO., LTD",,Tank Top,,,"Color = Burgundy Red,Size= XXL",,55,45
