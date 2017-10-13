@@ -6,17 +6,8 @@ con = sqlite3.connect(':memory:')
 con.text_factory = str
 cur = con.cursor()
 
-
-def fix_sku(row):
-    x = str(row['SKU']).replace(' ', '')
-    return str(x).replace('\r\n', '')
-
-
 order_df = pd.read_csv('orders.csv', usecols=['date', 'quantity', 'SKU'], parse_dates=['date'])
 po_df = pd.read_csv('pos.csv', usecols=['SKU', 'stock_quantity', 'moq', 'lead_time'])
-
-# order_df['SKU'] = order_df.apply(fix_sku, axis=1)
-# po_df['SKU'] = po_df.apply(fix_sku, axis=1)
 
 order_df.to_sql('orders', con=con, if_exists='replace')
 po_df.to_sql('pos', con=con, if_exists='replace')
@@ -56,13 +47,6 @@ def days_between_sales(row):
     days = row['total_days']/row['total_sales']
     return int(days)
 
-# def days_between_sales(row):
-#     try:
-#         days = int(row['total_sales'])/int(row['total_days'])
-#     except ZeroDivisionError:
-#         days = 999
-#     return int(days)
-
 
 def reorder_days(row):
     days = row['days_between_sales'] * row['on_hand_inventory'] + row['lead_time']
@@ -80,10 +64,6 @@ def reorder_date(row):
 results['days_between_sales'] = results.apply(days_between_sales, axis=1)
 results['reorder_days'] = results.apply(reorder_days, axis=1)
 results['reorder_day'] = results.apply(reorder_date, axis=1)
-# results['days_between_sales'] = results.apply(days_between_sales, axis=1)
-
-# del results['total_days']
-# del results['reorder_days']
 
 results.to_csv('reorder_schedule.csv', index=False)
 print results
